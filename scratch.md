@@ -110,6 +110,6 @@ More than just technical - soft skills
   - Don't use jargon to make others feel stupid or make yourself feel smart
   - Be patient with junior engineers whenever possible (sometimes deadlines prevent this)
   - Respect others' time
-  - Language barriers
+- Language barriers
 
 https://blog.pragmaticengineer.com/critical-thinking/
