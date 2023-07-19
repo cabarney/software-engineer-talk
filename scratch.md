@@ -113,3 +113,5 @@ More than just technical - soft skills
 - Language barriers
 
 https://blog.pragmaticengineer.com/critical-thinking/
+
+https://www.trio.dev/blog/software-engineer-soft-skills
